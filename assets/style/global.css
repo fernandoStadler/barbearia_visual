@@ -7,14 +7,21 @@
     background-color: rgb(46, 46, 46) !important;
 }
 
-.cuverd  {
-    /* Background color */
-    background-color: rgba(255, 8, 8, 0.3);
 
-    /* You can use gradient background color such as
-background: linear-gradient(rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0.1) 100%); */
 
-    /* Curved corners */
-    border-bottom-left-radius: 50% 40% !important;
-    border-bottom-right-radius: 50% 40% !important;
+.btn-whats{
+    background-color:#35b548;
+    color: white;
+    border: none;
+    padding: 10px;
+    text-decoration: none;
 }
+
+.btn-whats:hover{
+    background-color:#247430;
+    color: white;
+    border: none;
+    padding: 10px;
+    text-decoration: none;
+}
+
